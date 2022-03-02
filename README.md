@@ -6,10 +6,10 @@ The Python way is a hybrid sorting algorithm which is derived from merge and ins
 ### What is difference between sort and sorted in Python?
 sort() function is very similar to sorted() but unlike sorted it returns nothing and makes changes to the original sequence. Moreover, sort() is a method of list class and can only be used with lists. Parameters: key: A function that serves as a key for the sort comparison.
 ### Python - Sorting Algorithms
-~ Bubble Sort
-~ Merge Sort
-Insertion Sort
-Shell Sort
-Selection Sort
+~ Bubble Sort<br/>
+~ Merge Sort<br/>
+~ Insertion Sort<br/>
+~ Shell Sort<br/>
+~ Selection Sort<br/>
 
 
