@@ -15,5 +15,5 @@ sort() function is very similar to sorted() but unlike sorted it returns nothing
 By using a bubble sort, you can sort data in either ascending or descending order. Starting from the first element in a list, a bubble sort will compare the first and second elements. If the first element is greater than the second, a swap occurs.
 ### Merge Sort
 Merge sort is one of the most efficient sorting algorithms. It works on the principle of Divide and Conquer. Merge sort repeatedly breaks down a list into several sublists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
-
+### Insertion Sort
 
