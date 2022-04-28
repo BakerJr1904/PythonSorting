@@ -20,7 +20,6 @@ sort() function is very similar to sorted() but unlike sorted it returns nothing
 ~ Insertion Sort<br/>
 ~ Shell Sort<br/>
 ~ Selection Sort<br/>
-
 ### Bubble Sort
 By using a bubble sort, you can sort data in either ascending or descending order. Starting from the first element in a list, a bubble sort will compare the first and second elements. If the first element is greater than the second, a swap occurs.
 ### Merge Sort
