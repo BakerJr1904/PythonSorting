@@ -30,7 +30,6 @@ By using a bubble sort, you can sort data in either ascending or descending orde
 Merge sort is one of the most efficient sorting algorithms. It works on the principle of Divide and Conquer. Merge sort repeatedly breaks down a list into several sublists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
 
 ### Insertion Sort
-
 The Python insertion sort works like sorting game cards. To use the insertion sort, you create two lists: a sorted and unsorted list. You compare each item in the unsorted list until you sort that item. The insertion sort is a common standard algorithm in the Python language.
 ### Shell Sort
 The first step in shell sort is to decide the gap/interval. Let us take interval = 4. Thus, we will select pairs of elements present at an interval 4 from each other and swap them if they are out of order. After performing this step, we will simply apply insertion sort on this array.
