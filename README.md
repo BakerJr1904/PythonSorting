@@ -14,6 +14,7 @@ sort() function is very similar to sorted() but unlike sorted it returns nothing
 ![Pandas-Sort](https://user-images.githubusercontent.com/65743503/156393753-348dd82d-64cb-4f24-9341-3cf41bd8b043.jpg)
 
 ### Python - Sorting Algorithms!
+
 ~ Bubble Sort<br/>
 ~ Merge Sort<br/>
 ~ Insertion Sort<br/>
